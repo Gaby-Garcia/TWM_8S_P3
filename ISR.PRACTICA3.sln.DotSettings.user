@@ -1,0 +1,17 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1c064a4f_002D63b8_002D4493_002Da224_002D3701746e1f8b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="IncomeShould" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::746C9680-9A4F-4581-B91B-B4E829E943D0::net7.0::ISR.Practica3.Tests.IncomeShould&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::746C9680-9A4F-4581-B91B-B4E829E943D0::net7.0::ISR.Practica3.Tests.IsrServiceShould.ProcessIsr_ReturnsCorrectIsr_ForFirstRange&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::746C9680-9A4F-4581-B91B-B4E829E943D0::net7.0::ISR.Practica3.Tests.IsrServiceShould.ProcessIsr_ReturnsIsrWithinFirstRange_WhenSalaryIsWithinRange&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::746C9680-9A4F-4581-B91B-B4E829E943D0::net7.0::ISR.Practica3.Tests.IsrServiceShould.Salary_ReturnsIsrWithinFirstRange_WhenSalaryIsWithinRange&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::746C9680-9A4F-4581-B91B-B4E829E943D0::net7.0::ISR.Practica3.Tests.IsrServiceShould.WhenUpperLimitIs_2500_return_47_999805&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::746C9680-9A4F-4581-B91B-B4E829E943D0::net7.0::ISR.Practica3.Tests.IsrServiceShould.WhenUpperLimitIs_13500_return_47_999805&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::746C9680-9A4F-4581-B91B-B4E829E943D0::net7.0::ISR.Practica3.Tests.IsrServiceShould&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f2d0d97e_002Dd7d2_002D4be9_002Dabcb_002Dfcb23a036ccb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="WhenUpperLimitIs_2500_return_47_999805" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::746C9680-9A4F-4581-B91B-B4E829E943D0::net7.0::ISR.Practica3.Tests.IsrServiceShould&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
